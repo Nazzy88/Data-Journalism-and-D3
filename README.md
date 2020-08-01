@@ -1,4 +1,6 @@
 # Data-Journalism-and-D3
+![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+
 Please view the live file here:
 https://nazzy88.github.io/Data-Journalism-and-D3/
 
